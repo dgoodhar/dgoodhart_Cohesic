@@ -8,8 +8,13 @@ The following is a step by step instructions manual on how to run the program wi
 3. Open both .cpp files. It is recommended that the two files should be viewed simultaneously for review, either in a seperate tab or a seperate window, as the comments.cpp file contains comments from the author that should explain in further detail the process and implementation of the code. 
 4. With the window/tab of main.cpp selected, run the code (typically command r, or in the toolbar under product->run). 
 5. Validate the code by testing the 3 example codes given in cohesic-code-sample.pdf:
+
 --> For the first example, enter in the command line prompts: 's', 'left superior lobe', 'n', and view results. 
+
 --> For the second example, enter in the command line prompts: 's', 'right middle lobe', 'y', 'd', 'right lung', 'n', and view results.
+
 --> For the third example, enter in the comman line prompts: 's', 'left atrium', 'y', 's', 'left superior lobe', 'y', 's', left inferior lobe', 'n', and view results.
+
 --> Any other tests you wish to do can be performed in a similar manner. 
+
 ** Please note that valid inputs for this program contain all lower case inputs for simplicity. Using upper case will result in error messages being displayed, and a prompt that tells the user to restart the iteration. 
